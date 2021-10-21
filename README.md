@@ -1,12 +1,12 @@
 # GenshinFonts
 hand-made fonts of Genshin Impact  
 ゲーム「原神」の中で使用されているフォントを自作しました。  
-Please use according to the guidelines of miHoYo.  
+Please use the fonts according to the guidelines of miHoYo.  
 miHoYoのガイドラインに従って利用してください。  
 
 ## Downloading
 フォントのダウンロード方法  
-† the lecture tell as if there were many .ttf file, but now only one .ttf file exists.  
+† The lecture tell as if there were many .ttf file, but now only one .ttf file exists.  
 ※.ttfファイルが複数あるよう説明していますが今の所1個しかありません。
 1. click one .ttf file (e.g. mondfont.ttf).  
 .ttfファイルをどれか一つクリックします（例えばmondfont.ttf）。
