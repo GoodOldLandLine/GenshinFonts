@@ -6,25 +6,30 @@ miHoYoのガイドラインに従って利用してください。
 
 ## Downloading
 フォントのダウンロード方法  
-† The lecture tell as if there were many .ttf file, but now only one .ttf file exists.  
-※.ttfファイルが複数あるよう説明していますが今の所1個しかありません。
 1. click one .ttf file (e.g. mondfont.ttf).  
 .ttfファイルをどれか一つクリックします（例えばmondfont.ttf）。
 1. click "Download" on the right side.  
 右側にある「Download」をクリックします。
 
-## Installation (for Windows)
-フォントのインストール方法（Windows）
-1. right-click the font.  
+## Installation (for Windows10)
+フォントのインストール方法（Windows10）
+1. right-click the downloaded file.  
 ダウンロードしたフォントを右クリックします。
-2. select "install"
+2. select "install"  
 「インストール」を選択するとインストールが始まります。
 
+## Installation (for Windows11)
+1. double-click the downloaded file.  
+ダウンロードしたフォントをダブルクリックします。
+3. click "install" on preview window.  
+プレビュー画面が出るので「インストール」を選択します。
+
 ## Installation (for Mac)
-Please find it out by yourself...
+Please find it out by yourself...  
 「Mac ttf インストール」等で検索してください...
 
 ## Example
-
+### mond
 ![sample2](https://user-images.githubusercontent.com/60289598/138224516-32fd1c03-6a1d-44c3-b4b4-406f436210e5.png)  
-Fig. sample using MS Word. マイクロソフトWordでの例
+### genshinruin
+![str_abc](https://user-images.githubusercontent.com/60289598/139594542-3f920a59-c651-40fb-a527-75347439dc24.png)  
