@@ -33,3 +33,7 @@ Please find it out by yourself...
 ![sample2](https://user-images.githubusercontent.com/60289598/138224516-32fd1c03-6a1d-44c3-b4b4-406f436210e5.png)  
 ### genshinruin
 ![str_abc](https://user-images.githubusercontent.com/60289598/139594542-3f920a59-c651-40fb-a527-75347439dc24.png)  
+### GenshinInazuma
+![demo](https://user-images.githubusercontent.com/60289598/158093096-378dd319-7c78-40a6-b944-763f7a8f97e1.png)
+
+
