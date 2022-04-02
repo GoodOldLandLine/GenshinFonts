@@ -1,8 +1,8 @@
 # GenshinFonts
 hand-made fonts of Genshin Impact  
 ゲーム「原神」の中で使用されているフォントを自作しました。  
-Please use the fonts according to the guidelines of miHoYo.  
-miHoYoのガイドラインに従って利用してください。  
+Please use the fonts according to the [Terms of Service](https://genshin.hoyoverse.com/en/company/terms).  
+[原神利用規約](https://genshin.hoyoverse.com/ja/company/terms)に従って利用してください。  
 
 ## Downloading
 フォントのダウンロード方法  
